@@ -1,0 +1,4 @@
+---
+applications:
+- name: adminclient
+  memory: 768M

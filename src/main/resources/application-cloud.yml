@@ -1,0 +1,2 @@
+spring.boot.admin.client.url: https://adminserver.cfapps.io
+management.endpoints.web.exposure.include: "*"
